@@ -1,2 +1,2 @@
 This is a forth file!
-Add it and commit!
+Modification was made! 
